@@ -1,0 +1,33 @@
+/* div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} */
+.card{
+    display:inline;
+    border: 5px solid #07c5fa;
+    padding: 20px;
+    margin: 12px;
+    flex-wrap:inherit;
+   
+   
+}
+.blog {
+    display:flex;
+    align-items:initial;
+    justify-items: left;
+
+}
+.btn-delete{
+    background-color:rgb(255, 0, 0);
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 80px;
+    border: none;
+    cursor: pointer;
+    border-radius: 22px;
+}
+.card p{
+    border-bottom: 4px solid #ae00ff;
+    width: 143px;
+}

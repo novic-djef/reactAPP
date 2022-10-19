@@ -1,0 +1,9 @@
+*{
+    padding: 2px
+}
+
+@import './home.css';
+@import './menu.css';
+@import './technoAdd.css';
+@import './technoList.css';
+@import './technoItem.css'
